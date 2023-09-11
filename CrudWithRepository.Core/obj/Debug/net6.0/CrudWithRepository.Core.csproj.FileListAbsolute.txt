@@ -1,0 +1,12 @@
+C:\Users\admin\source\repos\CrudApplication\CrudWithRepository.Core\bin\Debug\net6.0\CrudWithRepository.Core.deps.json
+C:\Users\admin\source\repos\CrudApplication\CrudWithRepository.Core\bin\Debug\net6.0\CrudWithRepository.Core.dll
+C:\Users\admin\source\repos\CrudApplication\CrudWithRepository.Core\bin\Debug\net6.0\CrudWithRepository.Core.pdb
+C:\Users\admin\source\repos\CrudApplication\CrudWithRepository.Core\obj\Debug\net6.0\CrudWithRepository.Core.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\CrudApplication\CrudWithRepository.Core\obj\Debug\net6.0\CrudWithRepository.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\CrudApplication\CrudWithRepository.Core\obj\Debug\net6.0\CrudWithRepository.Core.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\CrudApplication\CrudWithRepository.Core\obj\Debug\net6.0\CrudWithRepository.Core.AssemblyInfo.cs
+C:\Users\admin\source\repos\CrudApplication\CrudWithRepository.Core\obj\Debug\net6.0\CrudWithRepository.Core.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\CrudApplication\CrudWithRepository.Core\obj\Debug\net6.0\CrudWithRepository.Core.dll
+C:\Users\admin\source\repos\CrudApplication\CrudWithRepository.Core\obj\Debug\net6.0\refint\CrudWithRepository.Core.dll
+C:\Users\admin\source\repos\CrudApplication\CrudWithRepository.Core\obj\Debug\net6.0\CrudWithRepository.Core.pdb
+C:\Users\admin\source\repos\CrudApplication\CrudWithRepository.Core\obj\Debug\net6.0\ref\CrudWithRepository.Core.dll

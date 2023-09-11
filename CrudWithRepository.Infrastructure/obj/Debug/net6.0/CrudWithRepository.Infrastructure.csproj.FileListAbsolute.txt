@@ -1,0 +1,15 @@
+C:\Users\admin\source\repos\CrudApplication\CrudWithRepository.Infrastructure\bin\Debug\net6.0\CrudWithRepository.Infrastructure.deps.json
+C:\Users\admin\source\repos\CrudApplication\CrudWithRepository.Infrastructure\bin\Debug\net6.0\CrudWithRepository.Infrastructure.dll
+C:\Users\admin\source\repos\CrudApplication\CrudWithRepository.Infrastructure\bin\Debug\net6.0\CrudWithRepository.Infrastructure.pdb
+C:\Users\admin\source\repos\CrudApplication\CrudWithRepository.Infrastructure\bin\Debug\net6.0\CrudWithRepository.Core.dll
+C:\Users\admin\source\repos\CrudApplication\CrudWithRepository.Infrastructure\bin\Debug\net6.0\CrudWithRepository.Core.pdb
+C:\Users\admin\source\repos\CrudApplication\CrudWithRepository.Infrastructure\obj\Debug\net6.0\CrudWithRepository.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\CrudApplication\CrudWithRepository.Infrastructure\obj\Debug\net6.0\CrudWithRepository.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\CrudApplication\CrudWithRepository.Infrastructure\obj\Debug\net6.0\CrudWithRepository.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\CrudApplication\CrudWithRepository.Infrastructure\obj\Debug\net6.0\CrudWithRepository.Infrastructure.AssemblyInfo.cs
+C:\Users\admin\source\repos\CrudApplication\CrudWithRepository.Infrastructure\obj\Debug\net6.0\CrudWithRepository.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\CrudApplication\CrudWithRepository.Infrastructure\obj\Debug\net6.0\CrudWithRepository.Infrastructure.csproj.CopyComplete
+C:\Users\admin\source\repos\CrudApplication\CrudWithRepository.Infrastructure\obj\Debug\net6.0\CrudWithRepository.Infrastructure.dll
+C:\Users\admin\source\repos\CrudApplication\CrudWithRepository.Infrastructure\obj\Debug\net6.0\refint\CrudWithRepository.Infrastructure.dll
+C:\Users\admin\source\repos\CrudApplication\CrudWithRepository.Infrastructure\obj\Debug\net6.0\CrudWithRepository.Infrastructure.pdb
+C:\Users\admin\source\repos\CrudApplication\CrudWithRepository.Infrastructure\obj\Debug\net6.0\ref\CrudWithRepository.Infrastructure.dll
